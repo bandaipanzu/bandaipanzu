@@ -16,4 +16,4 @@ Before you make an issue or PR on any of my repos, to the best of your ability..
 - Be willing to work with me : )
 
 # TODO 
-- make first repo. possibly looking for a small c++ engine test, or a driver fork??? (note: expand on this later)
+- populate account with uploads of old coding projects
