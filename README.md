@@ -11,7 +11,7 @@ I'm interested in...
 
   
 Before you make an issue or PR on any of my repos, to the best of your ability...
-- Be concise
+- Be clear
 - Be polite
 - Be willing to work with me : )
 
