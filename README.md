@@ -1,5 +1,5 @@
 # ABOUT...
-I am a sophmore year Computer Science major.
+I am a freshman year Computer Science major.
 
   
   I know...
